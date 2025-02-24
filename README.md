@@ -1,4 +1,3 @@
-
 # 📊 Stock Portfolio Tracker
 
 A simple Python-based stock portfolio tracker that helps you manage your investments by adding, viewing, and removing stocks. It also calculates the current value and profit/loss for each stock.
@@ -25,7 +24,7 @@ A simple Python-based stock portfolio tracker that helps you manage your investm
 ### 1. **Clone the repository:**
 
 ```
-git clone https://github.com/YourUsername/Stock-Portfolio-Tracker.git
+git clone https://github.com/Shadyelsawy536/Stock-Portfolio-Tracker.git
 cd Stock-Portfolio-Tracker
 ```
 
